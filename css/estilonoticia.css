@@ -1,0 +1,49 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif!important;
+}
+
+.noticias{
+    margin-top: 20px;
+    background-color: whitesmoke;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-contenedor{
+    max-width: 610px;
+    margin: auto;
+}
+.img-noticia-principal{
+    min-width: 600px;
+    max-width: 600px;
+    box-shadow: 0px 0px 6px grey;
+}
+.titu-noticia{
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+    color: #666666;
+}
+
+.cont-info{
+    max-width: 80%;
+    margin: auto;
+    text-align: justify;
+}
+.info-noticias{
+    margin-top: 10px;
+    font-size: 25px;
+}
